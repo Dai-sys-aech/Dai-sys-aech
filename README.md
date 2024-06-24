@@ -1,17 +1,14 @@
-## Hi there 👋
+Me chamo Daiane
 
-<!--
-**Dai-sys-aech/Dai-sys-aech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+ ✨### Boas vindas ao meu perfil 
 
-Here are some ideas to get you started:
-### Boas vindas ao meu perfil :blue_heart
+- 🔭 Gosto de estudar
+- 🌱 Moro em Pilar do Sul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👯 Meu gmail..rodriguesferreiradaiane1@gmail.com
+- 🤔 estou disposta a ajudar
+- 💬 gosto de conversar
+
+
